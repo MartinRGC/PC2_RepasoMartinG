@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PC2_2021_2_MG</string>
+    <string name="Iniciosesion">INICIO DE SESION</string>
+    <string name="dni">Ingrese su DNI</string>
+    <string name="clave">Ingrese su clave</string>
+    <string name="btningresar">INGRESAR</string>
+    <string name="btnregistro">REGISTRO</string>
+    <string name="tvcrearcuenta">CREAR UNA CUENTA</string>
+    <string name="regdni">Ingrese su DNI</string>
+    <string name="regnombre">Ingrese su nombre completo</string>
+    <string name="edtpassword">Ingrese su clave</string>
+    <string name="edtvalidpss">Ingrese nuevamente su clave</string>
+    <string name="btnregcuenta">REGISTRAR CUENTA</string>
+</resources>

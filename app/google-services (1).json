@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277213903755",
+    "project_id": "pc2movilesrep",
+    "storage_bucket": "pc2movilesrep.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277213903755:android:d2d1628aae73d323900d8e",
+        "android_client_info": {
+          "package_name": "com.algarrobo.pc2_2021_2_mg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4WFsS6ZT9sgppaUJQdGmImsZ8StX1bXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
